@@ -1,3 +1,8 @@
+# MY EDIT#
+I have made it so that the phone is now an item instead of having it at all times.
+
+
+
 #### GCPHONE_ESXFIX v1.1 ####
 This is a copy of gcphone made to work with ESX and Calls are working properly.
 ORIGINAL AUTHOR - https://github.com/N3MTV/gcphone
